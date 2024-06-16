@@ -1,1 +1,1 @@
-Hello! I have decided to add achange to master branch although I hva a fature branch.
+This is the current version after the conflict 
